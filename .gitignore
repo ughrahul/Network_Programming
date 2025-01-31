@@ -1,0 +1,7 @@
+# Ignore files
+SELF
+lab6.2
+lab7**
+.vscode
+.DS_Store
+
